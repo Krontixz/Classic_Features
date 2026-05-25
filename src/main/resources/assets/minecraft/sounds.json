@@ -1,0 +1,82 @@
+{
+  "entity.player.hurt": {
+    "replace": true,
+    "sounds": ["damage/oof"]
+  },
+  "entity.player.hurt_berry_bush": {
+    "replace": true,
+    "sounds": ["damage/oof"]
+  },
+  "entity.player.hurt_drown": {
+    "replace": true,
+    "sounds": ["damage/oof"]
+  },
+  "entity.player.hurt_on_fire": {
+    "replace": true,
+    "sounds": ["damage/oof"]
+  },
+  "entity.cow.ambient": {
+    "replace": true,
+    "sounds": ["mob/cow/say1", "mob/cow/say2", "mob/cow/say3", "mob/cow/say4"]
+  },
+  "entity.cow.hurt": {
+    "replace": true,
+    "sounds": ["mob/cow/hurt1", "mob/cow/hurt2", "mob/cow/hurt3"]
+  },
+  "entity.pig.ambient": {
+    "replace": true,
+    "sounds": ["mob/pig/say1", "mob/pig/say2", "mob/pig/say3"]
+  },
+  "entity.pig.hurt": {
+    "replace": true,
+    "sounds": ["mob/pig/say1", "mob/pig/say2", "mob/pig/say3"]
+  },
+  "entity.sheep.ambient": {
+    "replace": true,
+    "sounds": ["mob/sheep/say1", "mob/sheep/say2", "mob/sheep/say3"]
+  },
+  "entity.chicken.ambient": {
+    "replace": true,
+    "sounds": ["mob/chicken/say1", "mob/chicken/say2", "mob/chicken/say3"]
+  },
+  "entity.zombie.ambient": {
+    "replace": true,
+    "sounds": ["mob/zombie/say1", "mob/zombie/say2", "mob/zombie/say3"]
+  },
+  "entity.zombie.hurt": {
+    "replace": true,
+    "sounds": ["mob/zombie/hurt1", "mob/zombie/hurt2"]
+  },
+  "entity.skeleton.ambient": {
+    "replace": true,
+    "sounds": ["mob/skeleton/say1", "mob/skeleton/say2", "mob/skeleton/say3"]
+  },
+  "entity.skeleton.hurt": {
+    "replace": true,
+    "sounds": ["mob/skeleton/hurt1", "mob/skeleton/hurt2", "mob/skeleton/hurt3", "mob/skeleton/hurt4"]
+  },
+  "entity.creeper.primed": {
+    "replace": true,
+    "sounds": ["mob/creeper/say1"]
+  },
+  "entity.spider.ambient": {
+    "replace": true,
+    "sounds": ["mob/spider/say1", "mob/spider/say2", "mob/spider/say3", "mob/spider/say4"]
+  },
+  "entity.slime.squish": {
+    "replace": true,
+    "sounds": ["mob/slime/slime1", "mob/slime/slime2"]
+  },
+  "entity.enderman.ambient": {
+    "replace": true,
+    "sounds": ["mob/endermen/idle1", "mob/endermen/idle2", "mob/endermen/idle3", "mob/endermen/idle4", "mob/endermen/idle5"]
+  },
+  "entity.ghast.warn": {
+    "replace": true,
+    "sounds": ["mob/ghast/charge"]
+  },
+  "entity.ghast.shoot": {
+    "replace": true,
+    "sounds": ["mob/ghast/fireball"]
+  }
+}

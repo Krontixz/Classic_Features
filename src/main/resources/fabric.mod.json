@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "classic_features",
+  "version": "1.0.0",
+  "name": "Classic Features",
+  "description": "Brings back 10 classic nostalgic features to modern Minecraft.",
+  "authors": [
+    "Krontixz"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/classic_features/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.krontixz.classicfeatures.ClassicFeaturesMod"
+    ],
+    "client": [
+      "com.krontixz.classicfeatures.client.ClassicFeaturesClient"
+    ]
+  },
+  "mixins": [
+    "classic_features.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "minecraft": "~26.1",
+    "java": ">=21"
+  }
+}

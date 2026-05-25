@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.krontixz.classicfeatures.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [],
+  "client": [
+    "BackgroundRendererMixin",
+    "GameOptionsScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
